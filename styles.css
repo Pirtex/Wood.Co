@@ -118,27 +118,6 @@ html {
     transition: 0.3s;
 }
 
-/* 
-About us: 
-
-We are a roblox development group and we make games for roblox. 
-
-Started: 30 Jan 2021
-
-Owner: 
-
-Games: 
-
-First game: Find the georges
-
-Second game: George Factory
-
-Third game: Ro-Alchemy
-
-Current: Biologica
-
-*/
-
 #aboutus {
     background: linear-gradient(
         -45deg,
@@ -261,7 +240,7 @@ Current: Biologica
 }
 
 .game-name{
-    height: 50%;
+    height: 70%;
     width: 100%;
     font-size: 12rem;
 }
