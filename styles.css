@@ -287,6 +287,10 @@ html {
     cursor:not-allowed;
 }
 
+.not-playable1 {
+    cursor:not-allowed;
+}
+
 button {
     border:0px solid transparent;
 }
@@ -367,6 +371,13 @@ button {
     )
 }
 
+.not-playable1:hover {
+    background: linear-gradient(
+        -45deg,
+        red,
+        rgb(82, 2, 2)
+    )
+}
 
 @media (max-width:1760px) {
     .game-image {
